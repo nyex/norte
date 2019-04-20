@@ -2,7 +2,7 @@
 
 ## Olivia Maia
 
-olivia@oliviamaia.net
+olivia@oliviamaia.net\
 <https://oliviamaia.net>
 
 * * *
