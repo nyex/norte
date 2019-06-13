@@ -14,7 +14,7 @@ Vou atualizar este repositório conforme escrevo para quem estiver interessado e
 
 ### Ordenação dos arquivos/cenas
 
-A primeira cena do romance é o arquivo 'c_1'. A narrativa se dá em três tempos distintos representados nos arquivos pelas letras \_a_, _b_ e _c_. A princípio, a sequência de leitura fica a cargo do leitor — a ordenação definitiva, não-linear, vai ser definida no final do processo de escrita (se tudo der certo).
+A primeira cena do romance é (por enquanto) o arquivo 'c_1'. A narrativa se dá em três tempos distintos representados nos arquivos pelas letras _a_, _b_ e _c_. A princípio, a sequência de leitura fica a cargo do leitor — a ordenação definitiva, não-linear, vai ser definida no final do processo de escrita (se tudo der certo).
 
 ### Arquivos adicionais
 
