@@ -4,6 +4,6 @@
 — Sur o no sur, Kevin Johansen
 
 
-![america invertida](/insp_/joaquin-torres-garcia-america-invertida-1943.jpg)
+![america invertida](https://norte-oliviamaia.netlify.com/insp_/joaquin-torres-garcia-america-invertida-1943.jpg)
 
 — America invertida, Joaquim Torres Garcia
