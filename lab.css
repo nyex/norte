@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
+@import url("https://fonts.googleapis.com/css?family=Inconsolata");
 
 * {
   -webkit-font-smoothing: antialiased;
@@ -68,8 +68,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   color: #34495e;
-  font-family: Inconsolata, monospace
-  font-size: 15px;
+  font-family: Inconsolata, monospace;
+  font-size: 17px;
   letter-spacing: 0;
   margin: 0;
   overflow-x: hidden;
@@ -131,7 +131,7 @@ li input[type='checkbox'] {
 
 .app-nav a {
   color: inherit;
-  font-size: 16px;
+  font-size: 17px;
   text-decoration: none;
   -webkit-transition: color 0.3s;
   transition: color 0.3s;
@@ -173,7 +173,7 @@ li input[type='checkbox'] {
 
 .app-nav li ul li {
   display: block;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1rem;
   margin: 0;
   margin: 8px 14px;
@@ -442,7 +442,7 @@ body.sticky .sidebar-toggle {
   color: #fff;
   content: '!';
   font-family: 'Dosis', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: bold;
   left: -12px;
   line-height: 20px;
@@ -755,7 +755,7 @@ body {
 
 .sidebar ul li a {
   color: #505d6b;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: normal;
   overflow: hidden;
   text-decoration: none;
@@ -993,7 +993,7 @@ body {
   border-radius: 2px;
   color: #525252;
   display: block;
-  font-family: 'Roboto Mono', Monaco, courier, monospace;
+  font-family: Inconsolata, monospace;
   font-size: 0.8rem;
   line-height: inherit;
   margin: 0 2px;

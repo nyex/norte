@@ -10,7 +10,7 @@ _(assim que eu tiver uma.)_
 
 ## Projeto
 
-Vou atualizar este repositório conforme escrevo para quem estiver interessado em ler e acompanhar. Aceito ideias, sugestões, revisões, comentários e reclamações, mas não garanto que serão incorporadas ao texto. Fique à vontade pra criar um _fork_ e brincar com as cenas ou criar cenas alternativas.
+Vou atualizar este repositório (<https://gitlab.com/oliviamaia/norte>) conforme escrevo para quem estiver interessado em ler e acompanhar. Aceito ideias, sugestões, revisões, comentários e reclamações, mas não garanto que serão incorporadas ao texto. Fique à vontade pra criar um _fork_ e brincar com as cenas ou criar cenas alternativas.
 
 ### Ordenação dos arquivos/cenas
 
