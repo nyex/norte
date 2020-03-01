@@ -308,6 +308,7 @@ main.hidden {
 
 .sidebar ul li ul {
   padding-left: 20px;
+  line-height: 1em;
 }
 
 .sidebar::-webkit-scrollbar {
@@ -522,10 +523,6 @@ body.close .content {
     transition: transform 250ms ease-out;
     transition: transform 250ms ease-out, -webkit-transform 250ms ease-out;
   }
-
-.sidebar ul.app-sub-sidebar li {
-    line-height: 1em;
-}
 
   .content {
     left: 0;
