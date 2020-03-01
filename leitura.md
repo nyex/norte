@@ -5,6 +5,4 @@ A narrativa se dá em **três tempos** representados nos arquivos pelas letras _
 
 Em outras palavras: dividi o tempo da narrativa em três partes, e botei uma do lado da outra.
 
-A princípio, a sequência de leitura fica a cargo do leitor — a ordenação definitiva, não-linear, vai ser definida no final do processo de escrita (se tudo der certo).
-
-Teoricamente, a primeira cena do romance é (por enquanto) o arquivo 'c_1'.
+A princípio, a sequência de leitura ficaria a cargo do leitor — a ordenação definitiva, não-linear, vai ser definida no final do processo de escrita. A ordem apresentada talvez seja modificada até lá. Enquanto isso, fique à vontade para ler na ordem que bem entender.
