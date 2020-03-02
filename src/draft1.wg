@@ -8,7 +8,7 @@ WordGrinder dumpfile v3: this is a text file; diff me!
 .addons.htmlexport.italic_on: "<i>"
 .addons.htmlexport.underline_off: "</u>"
 .addons.htmlexport.underline_on: "<u>"
-.addons.pagecount.enabled: false
+.addons.pagecount.enabled: true
 .addons.pagecount.wordsperpage: 250
 .addons.scrapbook.document: "Scrapbook"
 .addons.scrapbook.pattern: "Item from '%N' at %T:"
@@ -21,15 +21,15 @@ WordGrinder dumpfile v3: this is a text file; diff me!
 .addons.smartquotes.rightsingle: "’"
 .addons.smartquotes.singlequotes: false
 .addons.spellchecker.enabled: false
-.addons.spellchecker.usesystemdictionary: true
-.addons.spellchecker.useuserdictionary: true
+.addons.spellchecker.usesystemdictionary: false
+.addons.spellchecker.useuserdictionary: false
 .documents.1.co: 6
-.documents.1.cp: 108
-.documents.1.cw: 40
+.documents.1.cp: 153
+.documents.1.cw: 55
 .documents.1.margin: 0
-.documents.1.name: "_draft1"
+.documents.1.name: "_draft"
 .documents.1.viewmode: 1
-.documents.1.wordcount: 2936
+.documents.1.wordcount: 3755
 .documents.2.co: 1
 .documents.2.cp: 1
 .documents.2.cw: 1
@@ -249,7 +249,7 @@ WordGrinder dumpfile v3: this is a text file; diff me!
 .styles.V.desc: "Indented text, run together"
 .styles.V.indent: 4
 .styles.V.name: "V"
-.current: 2
+.current: 1
 #1
 H2 [c_1]
 P O ruído das palmas era súbito mais forte do que o murmúrio da multidão; ritmadas, quase monótonas, provocadas com o propósito claro de chamar a atenção de quem estaria distraído com as miudezas da feira de artesanato, as empanadas caseiras, as frutas vermelhas, os potes de geleia. Téo, do outro lado da praça, as escutou como um chamado de outro tempo: os anos vividos no subúrbio de Buenos Aires e esse solidário hábito argentino de convocar a gente a bater palmas quando se encontrava uma criança perdida num aglomerado de gente. Seu primo mais novo, diziam, vivia se perdendo quando pequeno.
@@ -359,6 +359,51 @@ P (uma vida normal?)
 P Que tanto lhes importava se era gay ou canhoto ou.
 P — Meio dia está bom. Vou preparar uns sanduíches e fazemos um piquenique no aeroporto.
 P Elisa riu. Concordou com a cabeça e aceitou a mudança de assunto. Apoiou os cotovelos na mesa para enfim discutir os temas de trabalho que precisavam ser discutidos: as investigações em andamento e as providências para a ausência de Téo.
+P 
+P 
+P 
+H2 [a_3]
+P Claro que era meio ridículo: aquele tapinha na mão meio tonto, meio demorado, quase sem querer; feito fossem adolescentes que não podiam entregar uma paixão proibida. Era ridículo porque sim, era homem de mais de quarenta anos e Gustavo sabia, agia daquela forma de propósito, em esforço para adequar-se ao que quer que fosse o ideal de relacionamento de Téo. Aquele relacionamento inexistente que até a comissária de bordo adivinhava, como se não houvesse outra possibilidade quando dois homens viajam juntos e se ajudam para acomodar a bagagem no compartimento sob os assentos.
+P -- Odeio avião -- Gustavo disse, com uma sacudida de ombros.
+P -- Pudesse você ficava para sempre no mesmo lugar.
+P Gustavo riu. Hesitou em responder, mas acabou concordando com a cabeça.
+P -- Não teria saído do Rio.
+P -- Você nunca viajou para fora?
+P -- Do país? Ah, sim.
+P -- Com Fabiano.
+P Aquele sorriso enigmático. Téo desviou o olhar para prestar atenção na gente que circulava pelo corredor, procurando o assento marcado na passagem, pedindo licença e se espremendo por entre os outros. Téo que já tanto havia se mudado -- de cidade, de país, de vida -- ainda preferia a vida sedentária num só espaço. A avenida Paulista e o centro de São Paulo. Talvez porque tanto tempo havia sido estrangeiro estava cansado de não pertencer. Ou porque jamais seria capaz de pertencer: brasileiro filho de mãe argentina torcedor do Racing Club de Avellaneda que pensa que Maradona é melhor do que Pelé (como completaria talvez um amigo jornalista, indignado).
+P Tinham isso em comum; ele e Gustavo: querer fincar os pés num só lugar e não sair mais. Ambos longe da cidade natal inventando de fazer São Paulo se transformar em lar doce lar. Num avião rumo à Buenos Aires da adolescência de Téo.
+P -- Senhoras e senhores aqui fala o comandante -- e já estavam quase todos sentados? Os comissários ainda corriam de ponta a outra do corredor com últimos preparativos e as instruções de segurança. A conversa tinha acabado ali, minutos antes, com o nome do ex-namorado de Gustavo atirado no vazio. O carioca com as mãos apoiadas no próprio colo e a vista perdida adiante embora inevitável o contato físico porque ambos se apoiassem no braço das poltronas e era preciso preencher o espaço com palavras ou
+P bem-vindos a bordo do voo 4589
+P o tempo em Buenos Aires
+P temperatura atual de 13 graus
+P tempo estimado de voo
+P senhoras e senhores
+P e tirar do bolso uma embalagem de chiclete oferecer a Gustavo sem que pudesse dizer nada porque a pressão etc. Gustavo aceitou com um sorriso, outro sorriso. Gustavo; sempre;
+P decolagem autorizada
+P sorrisos.
+P Téo fechou os olhos enquanto o avião ganhava velocidade. Estava encostado na janela -- Gustavo no meio e ao lado dele uma moça de vinte e tantos anos ocupada com a revista da companhia aérea -- encolhido como convinha ao espaço do assento. Concentrado por um instante no pedaço de chiclete que tinha na boca, as rodas que se desagarram da pista e despedir-se temporariamente, mais uma vez, de sua terra adotada. Ouviu Gustavo respirar fundo e quis tomar-lhe a mão, mas.
+P Você sabe que.
+P Você sabe que meus pais.
+P Meus pais.
+P Porque minha mãe.
+P E você não está um pouco grandinho para esse tipo de discurso? As palavras dando voltas em sua cabeça enquanto o avião sacudia-se um pouco com o vento e ganhava altitude. Claro que Gustavo sabia.
+P -- Qual vai ser a história, Téo?
+P Abriu os olhos. Gustavo tinha a cabeça encostada na poltrona, virada um pouco para o lado. Assim sentados os olhos se encontravam na mesma altura. Téo quis rir. Sentiu foi os pelos do braço arrepiarem-se, um fio na barriga
+P (mas era a pressão, esse incômodo nos ouvidos).
+P -- Roberto é o único que sabe.
+P -- Seu primo mais velho.
+P -- Sim.
+P -- E você vai contar?
+P Quis dizer que sim, claro; ou
+P que isso não interessava a ninguém e não fazia diferença.
+P -- Tenho certeza que tua mãe é muito mais esperta do que você pensa, Téo.
+P Claro que era. Yo siempre lo supe. Quem não saberia? Seu pai perguntando quando ele ia tomar vergonha na cara e pedir Elisa em casamento. Vocês se dão tão bem. Juntos assistindo a Casablanca pela vigésima vez analisando as origens do charme de Bogart.
+P -- Se Roberto sabe você acha mesmo que ele não contou para teu outro primo, para tua tia?
+P -- Eu conheço meu primo.
+P -- E eles conhecem você.
+P Enfim o avião estabilizava-se depois de uma curva, e pela janela era a represa Guarapiranga, enorme.
+P -- A vida é tua, cara -- Gustavo moveu o maxilar como que para aliviar a dor da mudança de pressão. Voltou a encarar adiante, procurou no bolso da poltrona da frente algo com o que se distrair. -- Mas eu preciso saber a história que você quer contar se for para participar desse jogo.
 .
 #2
 H2 [a_x]
