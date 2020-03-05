@@ -115,7 +115,7 @@ e levantou-se, sentindo o tecido da calça grudando na pele com o suor.
 
 — _Vos sos Juan?_
 
-Téo fez que sim. Era o nome que lhe parecia mais natural para usar naquele país de sua adolescência, mesmo anos que de volta ao Brasil preferia apresentar-se como Téo. Juan Teodoro: uma dupla personalidade. Dois nomes que sequer lhe pertenciam, não de todo; haviam sido os nomes de seus avós, materno e paterno, unidos no neto para aplacar talvez qualquer descontento familiar criado pelo controverso casamento de seus pais.
+Téo fez que sim. Era o nome que lhe parecia mais natural para usar naquele país de sua adolescência, mesmo depois de anos que de volta ao Brasil preferia apresentar-se como Téo. Juan Teodoro: uma dupla personalidade. Dois nomes que sequer lhe pertenciam, não de todo; haviam sido os nomes de seus avós, materno e paterno, unidos no neto para aplacar talvez qualquer descontento familiar criado pelo controverso casamento de seus pais.
 
 — _Juan Miranda, soy sobrino del Antonio._
 
@@ -303,5 +303,131 @@ Claro que era. _Yo siempre lo supe_. Quem não saberia? Seu pai perguntando quan
 
 Enfim o avião estabilizava-se depois de uma curva, e pela janela era a represa Guarapiranga, enorme.
 
--- A vida é tua, cara -- Gustavo moveu o maxilar como que para aliviar a dor da mudança de pressão. Voltou a encarar adiante, procurou no bolso da poltrona da frente algo com o que se distrair. -- Mas eu preciso saber a história que você quer contar se for para participar desse jogo.
+-- A vida é tua, cara -- Gustavo moveu o maxilar como que para aliviar a dor da mudança de pressão. Voltou a encarar adiante, procurou no bolso da poltrona da frente algo com o que se distrair, desistiu e fechou os olhos. -- Mas eu preciso saber a história que você quer contar se for para participar desse jogo.
+
+
+
+
+
+
+
+## [b\_2]
+
+-- _Bueno, decime entonces, que es lo que pasó con Antonio?_
+
+Já ia longe isso de empurrar adiante o único tema que poderiam ter em comum. Téo sentiu naquele momento que perdia mais um pedaço de esperança ou;
+
+que teria mais trabalho em explicar-se e convencer a mulher de que não queria mal ao homem, que ela podia ser sincera e estava tudo bem. María, se chamava. Como talvez convinha a quem nasceu na cidade de Belén, no meio do deserto. Estava cansado, como se um passo fora da realidade. Tanta aridez e tanta poeira, tudo um fim de mundo e sinal instável de celular. Ou porque tantos os silêncios parecia obrigatório que uma epifania e súbito saberia o que dizer escrever uma mensagem a Gustavo e fazer sentido. Que tudo fizesse sentido.
+
+Era o que seu tio buscava? O silêncio do deserto. Se não ia encontrar o tio, que ao mesmo encontrasse a si mesmo;
+
+respostas.
+
+Um norte.
+
+-- _Eso lo vine a preguntarle a usted_ -- disse.
+
+Ela riu. Que algo a divertisse. Recostou o corpo na cadeira, apoiada na parede do lado de fora da sorveteria. A praça era grande, e dali mal se via onde terminava. Sacudiu os ombros e encarou Téo, calada por um instante, como quem se esforça para captar as intenções nas entrelinhas do discurso e do olhar.
+
+-- _En sério_ -- Téo insistiu.
+
+-- _Mirá, yo no sé de Antonio desde hace... qué sé yo, veinte, treinta años?_
+
+Vinte ou trinta anos. Eram já dez anos de incerteza e Téo procurou naquele rosto qualquer sinal de que estivesse mentindo. Ou: por que ela mentiria? Se havia concordado em encontrá-lo ali na praça, um estranho fazendo perguntas sobre o passado.
+
+Passado?
+
+Antes ela estivesse mentindo. Mas aí, trinta anos? Que súbito já não soubesse de Antonio justo no tempo em que ele havia abandonado a família, do outro lado do país.
+
+-- _Cuándo fué que habló con él por última vez?_
+
+Ela suspirou. Voltou a atenção ao sorvete de framboesa que derretia no copinho.
+
+-- _No sé. Hace mucho tiempo._
+
+Mas claro: algo não estava dizendo. Mais difícil afirmar que mentia; eram os olhos incapazes de fixar-se em qualquer ponto ou de encarar Téo de frente. As mãos inquietas entre a colherinha do sorvete e o guardanapo. Que ia dizer? Qualquer história sobre herança ou um dos filhos que precisa de. Herança! A Téo pareceu melhor mudar a estratégia. Perguntou-lhe sobre trabalho, a vida em Catamarca, o turismo eventual que movimentava um pouco a região. Ela não se fez difícil: contou de quando viveu na capital da província e do tempo de funcionária em uma distribuidora de alimentos. Desconfiada talvez que aquele tipo pudesse de fato se interessar por qualquer história de funções burocráticas ou uma vida besta que certo não chegava aos pés de.
+
+-- _Qué?_
+
+-- _Bueno. El tío tuyo, no? Yo no sabía que él tenia família en Buenos Aires._
+
+-- _Él no. Su mujer. Es decir, soy sobrino de su mujer._
+
+María riu. _El Antonio, casado?_ Quase disse? Téo leu em sua expressão, tão óbvia. Que ela sabia dele, então? Fosse a última pista que lhe parecia servir e se ali desaparecessem os passos do tio morria junto a investigação. Pensava naquela gente que subia e descia dos ônibus na estrada, no meio do nada, feito surgissem da própria poeira, do próprio deserto. Um tio perdido no deserto na puna argentina. De onde o primo tinha tirado a ideia de que ele seria capaz de seguir rastro tão apagado?
+
+-- _En Buenos Aires?_
+
+-- _Sí._
+
+-- _Capital?_
+
+Téo fez que sim com a cabeça. Desaparecia o sorriso e vinha uma expressão preocupada que;
+
+como quem se perde numa matemática complexa para além do tempo presente. Fosse ali uma brecha para descobrir algo que ainda não soubesse o motivo do espanto ou da falta de memória e _qué sé yo_ vinte ou trinta anos e uma vida besta que não chegava aos pés de.
+
+Que vida podia ter tido seu tio Antonio, motorista de ônibus em Buenos Aires que abandona a família e 
+
+sim?
+
+segue rumo à Catamarca província de sua infância em busca de um amor antigo --
+
+María.
+
+-- _Qué fué lo que querías? Saber de la niñez de Antonio?_
+
+A infância perdida de seus primos. O ódio de Pablo e a insegurança de Roberto. Da infância do tio sabia o suficiente para desconfiar que não precisava saber mais. Família desajustada perdida pelas províncias vizinhas. Nenhum contato que a tia ainda mantivesse, ou que mesmo com quem, durante o casamento, houvesse convivido.
+
+-- _En verdad que nó_ -- admitiu, baixando o olhar com um sorriso que se pretendia envergonhado. Queria era ir embora. Voltar para Buenos Aires, tomar o voo de volta para São Paulo. Meter-se no silêncio de seu apartamento ou no caos de um álbum de John Coltrane em volume máximo. Ocupar-se de investigar gente com quem não tinha nenhuma relação, ajudar a desmanchar casamentos ou frustrar adultérios, que era o que sabia fazer. Da agência ao cinema, do cinema à casa, etc.
+
+Gustavo?
+
+Porque em São Paulo não havia tampouco as obrigações da família e demandas dos primos da mãe da tia. A exagerada brasileirice do pai entre aquele monte de portenho convicto que era a família da mãe. Seu pai havia sido criado no interior paulista, filho de pai sapateiro e mãe costureira: família católica rígida e teimosa, que mesmo a metade do século vinte jamais poderia compreender como um menino tão bom podia se apaixonar por aquela argentina subversiva, comunista, que viajava sozinha e certamente devia estar fugindo da polícia de seu pais.
+
+Era -- claro -- um exagero. Um choque de culturas ou de gerações. Ou porque sua mãe já houvesse completado uma faculdade -- uma dessas _intelectuais_. Seus pais não tinham afinal muito de revolucionários, senão um pouco capacidade de pensar um tanto de fora do que exigem os bons costumes. Bem logo estavam casados ajustados grávidos. A vidinha de cidade pequena.
+
+Não: seu pai ainda trazia em si aquele homem tosco da roça, colégio completado tardiamente; ainda que fosse metido a leitor de livro difícil. E a convivência -- Téo havia saído de casa aos catorze e foi estudar na Argentina voltou direto à capital paulista para cursar a faculdade -- a convivência não era das mais fáceis. 
+
+(Quando é que você vai pedir Elisa em casamento? Deixe de enrolar a mulher!)
+
+Pensar que sua mãe e sua tia, gêmeas idênticas demasiado idênticas: ambas deram de se casar com tipo bronco do interior;
+
+ambos: seu pai, seu tio
+
+tão doces tão gentis por trás da falta de jeito
+
+um bom coração
+
+diamante bruto
+
+etc.
+
+-- _Bueno?_
+
+Téo olhou o pote de sorvete, quase vazio. Pensou no tio e veio foi uma fotografia velha de seu pai em frente à casa em que moravam, vestido com um macacão jeans e camisa branca amarrotada.
+
+E isso porque havia pensado em
+
+Gustavo
+
+(e você vai contar?)
+
+mas não quero me explicar me justificar mais uma obrigação mais um peso mais um malabarismo com palavras.
+
+-- _Antonio abandonó a su família hace como trinta y dos años. Mi primo más pequeño tenía como ocho años._
+
+Ela calada.
+
+-- _Y ahora ellos quieren saber que fué lo que pasó._
+
+_-- Y tú?_
+
+-- _Yo soy el primo que piensa que sabe encontrar gente desaparecida._ 
+
+
+
+
+
+
+
+## [a\_4]
 

@@ -1,6 +1,6 @@
 WordGrinder dumpfile v3: this is a text file; diff me!
-.addons.autosave.enabled: true
-.addons.autosave.lastsaved: 1583433640
+.addons.autosave.enabled: false
+.addons.autosave.lastsaved: 1583432586
 .addons.autosave.pattern: "%F.autosave.wg"
 .addons.autosave.period: 10
 .addons.htmlexport.bold_off: "</b>"
@@ -24,19 +24,20 @@ WordGrinder dumpfile v3: this is a text file; diff me!
 .addons.spellchecker.enabled: false
 .addons.spellchecker.usesystemdictionary: false
 .addons.spellchecker.useuserdictionary: false
+.changed: true
 .clipboard.co: 1
 .clipboard.cp: 1
 .clipboard.cw: 1
 .clipboard.margin: 0
 .clipboard.viewmode: 1
-.documents.1.co: 6
-.documents.1.cp: 216
-.documents.1.cw: 1
+.documents.1.co: 12
+.documents.1.cp: 203
+.documents.1.cw: 36
 .documents.1.margin: 0
 .documents.1.name: "_draft"
 .documents.1.sticky_selection: false
 .documents.1.viewmode: 1
-.documents.1.wordcount: 5002
+.documents.1.wordcount: 4924
 .documents.2.co: 1
 .documents.2.cp: 1
 .documents.2.cw: 1
@@ -48,6 +49,7 @@ WordGrinder dumpfile v3: this is a text file; diff me!
 .fileformat: 7
 .findtext: "--"
 .idletime: 3
+.justchanged: false
 .menu.accelerators.^@: "ZM"
 .menu.accelerators.^B: "SB"
 .menu.accelerators.BACKSPACE: "ZDPC"
@@ -487,15 +489,6 @@ P diamante bruto
 P etc.
 P -- Bueno?
 P Téo olhou o pote de sorvete, quase vazio. Pensou no tio e veio foi uma fotografia velha de seu pai em frente à casa em que moravam, vestido com um macacão jeans e camisa branca amarrotada.
-P E isso porque havia pensado em
-P Gustavo
-P (e você vai contar?)
-P mas não quero me explicar me justificar mais uma obrigação mais um peso mais um malabarismo com palavras.
-P -- Antonio abandonó a su família hace como trinta y dos años. Mi primo más pequeño tenía como ocho años.
-P Ela calada.
-P -- Y ahora ellos quieren saber que fué lo que pasó.
-P -- Y tú?
-P -- Yo soy el primo que piensa que sabe encontrar gente desaparecida. 
 P 
 P 
 P 
