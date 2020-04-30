@@ -12,7 +12,7 @@ _(assim que eu tiver uma.)_
 
 Vou atualizar este repositório (<https://gitlab.com/oliviamaia/norte>) conforme escrevo para quem estiver interessado em ler e acompanhar. Aceito ideias, sugestões, revisões, comentários e reclamações, mas não garanto que serão incorporadas ao texto. Fique à vontade pra criar um _fork_ e brincar com as cenas ou criar cenas alternativas.
 
-Todo meu trabalho está sob a licença [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/deed.pt_BR). Você pode compartilhar como quiser, adaptar e transformar o meu trabalho, desde que dê crédito e indicar as mudanças feitas e, também, distribua o resultado sob a mesma licença.
+Todo meu trabalho está sob a licença [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/deed.pt_BR). Você pode compartilhar como quiser, adaptar e transformar o meu trabalho, desde que dê crédito e indique as mudanças feitas e, também, distribua o resultado sob a mesma licença.
 
 Os capítulos do romance não têm título mas estão indicados no arquivo com as iniciais _a_, _b_ e _c_ _normalmente_ seguidas por um número; isso porque a narrativa se dá em **três tempos**, que por sua vez representam a ordem dos acontecimentos num tempo narrativo linear: "a" é o _começo_, "b" é o _meio_ e "c" é o _final_.
 

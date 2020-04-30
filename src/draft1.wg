@@ -1,6 +1,6 @@
 WordGrinder dumpfile v3: this is a text file; diff me!
 .addons.autosave.enabled: true
-.addons.autosave.lastsaved: 1583433640
+.addons.autosave.lastsaved: 1583699128
 .addons.autosave.pattern: "%F.autosave.wg"
 .addons.autosave.period: 10
 .addons.htmlexport.bold_off: "</b>"
@@ -22,16 +22,16 @@ WordGrinder dumpfile v3: this is a text file; diff me!
 .addons.smartquotes.rightsingle: "’"
 .addons.smartquotes.singlequotes: false
 .addons.spellchecker.enabled: false
-.addons.spellchecker.usesystemdictionary: false
-.addons.spellchecker.useuserdictionary: false
+.addons.spellchecker.usesystemdictionary: true
+.addons.spellchecker.useuserdictionary: true
 .clipboard.co: 1
 .clipboard.cp: 1
 .clipboard.cw: 1
 .clipboard.margin: 0
 .clipboard.viewmode: 1
-.documents.1.co: 6
-.documents.1.cp: 216
-.documents.1.cw: 1
+.documents.1.co: 11
+.documents.1.cp: 22
+.documents.1.cw: 15
 .documents.1.margin: 0
 .documents.1.name: "_draft"
 .documents.1.sticky_selection: false
@@ -45,6 +45,12 @@ WordGrinder dumpfile v3: this is a text file; diff me!
 .documents.2.sticky_selection: false
 .documents.2.viewmode: 1
 .documents.2.wordcount: 625
+.documents.3.co: 1
+.documents.3.cp: 1
+.documents.3.cw: 1
+.documents.3.margin: 0
+.documents.3.name: "User dictionary"
+.documents.3.viewmode: 1
 .fileformat: 7
 .findtext: "--"
 .idletime: 3
@@ -524,4 +530,7 @@ P Descer do carro em plena pista. Tragédia anunciada que se fazia farça.
 P Comédia.
 P Chegou a desbloquear a tela do telefone, buscar nas mensagens o nome de Gustavo e a última mensagem: 'estou descendo', quando ainda em Buenos Aires hospedados em Roberto.
 P 
+.
+#3
+P This is your user dictionary --- place words, one at a time, in V paragraphs and they will be considered valid in your document.
 .
