@@ -6,5 +6,6 @@
 **romance**
 -   [folha de rosto](/draft_/_rosto)
 -   [epígrafe](/draft_/_epigrafe)
--   [norte](/draft_/_draft)
--   [capítulos soltos](/draft_/_part)
+-   [norte _a](/draft_/_draft_a)
+-   [norte _b](/draft_/_draft_b)
+-   [norte _c](/draft_/_draft_c)
