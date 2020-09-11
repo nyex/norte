@@ -1,4 +1,5 @@
 **info**
+-   [sobre](/)
 -   [como ler](/leitura)
 -   [notas](/notas)
 -   [gitlab](https://gitlab.com/oliviamaia/norte)

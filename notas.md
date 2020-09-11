@@ -9,9 +9,8 @@ são paulo - buenos aires
 
 ### b
 RN9 - noroeste argentino
-   // estrada e separação
    // tio: caminhoneiro → guia turístico (por conhecer um artesão na estrada?) → o nomadismo dos artesãos
 
 ### c
 RN40 - patagônia
-   //
+   // 
